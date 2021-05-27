@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @qiuye-lu
-- 👀 I’m interested in swimming.
-- 🌱 I’m currently learning static programming analysis
+- 👀 I’m interested in programming analysis and software security.
 - 📫 qiuye2019@gmail.com
 
 <!---
